@@ -98,7 +98,7 @@ Generated insights to help improve:
 (Add your Power BI dashboard screenshot here)
 
 ```markdown
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](images/customer_behavior_dashboard.pbix)
 
 
 ---
@@ -107,7 +107,7 @@ Generated insights to help improve:
 
 ### Clone Repository
 ```bash
-git clone https://github.com/yourusername/customer-behavior-data-analysis.git
+git clone https://github.com/adityamagdum2811/End-to-End-Customer-Trends-Data-Analysis-using-SQL-Python-and-Power-BI.git
 ```
 
 ### Install Dependencies
